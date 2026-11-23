@@ -31,10 +31,7 @@ whois, dig, nslookup, theHarvester, whatweb, and (for the active phase) Nmap.
 - theHarvester returned nothing from one source and many unverified hostnames from all sources. These are treated as likely noise until checked.
 - No vulnerabilities were identified.
 - Active phase (192.168.18.41): 23 of the 1,000 most common TCP ports were open, including Telnet, the r-services, FTP, VNC, MySQL and PostgreSQL. Services were very old (Linux 2.6.x, Apache 2.2.8, PHP 5.2.4). Nothing was exploited and no logins were attempted.
-## Notes
 
-- Findings are labelled as confirmed facts or assumptions in the report.
-- AI assistance: [state here how AI was used, if your course requires a disclosure.]
 
 ## Team
 
